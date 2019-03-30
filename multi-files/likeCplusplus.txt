@@ -1,0 +1,3 @@
+life is long
+I use C++
+I like C++
