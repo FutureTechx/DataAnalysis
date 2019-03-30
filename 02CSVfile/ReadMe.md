@@ -145,4 +145,6 @@ data_frame_value_matches_pattern.to_csv(output_file, index=False)
 
 ```
 
-以上笔记来自<python 数据分析基础> 2019年03月30日（周六） 16时06分03秒 于上海浦东图书馆
+章数：2
+页数：64
+以上笔记来自<python 数据分析基础> 2019年03月30日（周六） 16时06分03秒 于上海浦东图书馆 
